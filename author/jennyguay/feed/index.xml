@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jennyguay &#8211; Jenny Neil</title>
+	<atom:link href="/author/jennyguay/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Psychology</description>
+	<lastBuildDate>Thu, 29 Jul 2021 18:48:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>jennyguay &#8211; Jenny Neil</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Welcome</title>
+		<link>/2021/07/29/welcome/</link>
+					<comments>/2021/07/29/welcome/#respond</comments>
+		
+		<dc:creator><![CDATA[jennyguay]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 18:46:44 +0000</pubDate>
+				<category><![CDATA[Home]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://jennyneilpsychology.com/?p=112</guid>
+
+					<description><![CDATA[We all experience challenging times in our lives&#160;and taking that first step in deciding to come to therapy can be difficult.&#160;I have great admiration for those who choose transformation. I know the strength, courage, and vulnerability it takes to live and express as your authentic self. It is not easy, but with the proper support &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>We all experience challenging times in our lives&nbsp;and taking that first step in deciding to come to therapy can be difficult.&nbsp;I have great admiration for those who choose transformation. I know the strength, courage, and vulnerability it takes to live and express as your authentic self. It is not easy, but with the proper support and guidance, positive growth is possible.&nbsp;</p>
+
+
+
+<p>Every person has a unique story, goals, challenges, personality, values, belief systems, and cultural influences&nbsp;that are woven together by experiences.&nbsp;At times, these experiences can contribute to feelings of disconnection in relationships, an increase in anxiety and depression, or other challenges in your life.&nbsp;Sometimes&nbsp;it&nbsp;can be too much to handle alone and we need help working through&nbsp;it. I am passionate about creating a safe&nbsp;and&nbsp;unique experience to help you heal from pain and discover new strengths and possibilities within yourself and enable you to create more intimate and trusting relationships.&nbsp;&nbsp;</p>
+
+
+
+<p>I truly enjoy the process of working collaboratively with my clients to find an approach that honors and respects them as a whole person. Together we can better understand life experiences, identify challenges and goals, and create strategies for growth, as well as space for healing.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="373" src="https://jennyneilpsychology.com/wp-content/uploads/2021/07/cropped-BlackForest-Germany-GettyImages-147180370-scaled-1-1024x373.jpeg" alt="" class="wp-image-102" srcset="/wp-content/uploads/2021/07/cropped-BlackForest-Germany-GettyImages-147180370-scaled-1-1024x373.jpeg 1024w, /wp-content/uploads/2021/07/cropped-BlackForest-Germany-GettyImages-147180370-scaled-1-300x109.jpeg 300w, /wp-content/uploads/2021/07/cropped-BlackForest-Germany-GettyImages-147180370-scaled-1-768x280.jpeg 768w, /wp-content/uploads/2021/07/cropped-BlackForest-Germany-GettyImages-147180370-scaled-1-1536x560.jpeg 1536w, /wp-content/uploads/2021/07/cropped-BlackForest-Germany-GettyImages-147180370-scaled-1-165x60.jpeg 165w, /wp-content/uploads/2021/07/cropped-BlackForest-Germany-GettyImages-147180370-scaled-1.jpeg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/29/welcome/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/2021/07/28/hello-world/</link>
+					<comments>/2021/07/28/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[jennyguay]]></dc:creator>
+		<pubDate>Wed, 28 Jul 2021 02:53:22 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://jennyneilpsychology.com/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/28/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
